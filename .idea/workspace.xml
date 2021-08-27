@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbe6c135-e6a0-4042-948d-7c728b1d75fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/authActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layout/footer/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layout/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layout/header/Navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layout/header/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/archives/Archives.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/archives/Archives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/calendar/Calendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/calendar/Calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/confirmation/Confirmation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/confirmation/Confirmation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/login/Login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/login/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/register/Register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/register/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/statistics/Statistics.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/pages/statistics/Statistics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/private-route/AdminPrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/private-route/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/fonts/fontawesome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/errorReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="fbe6c135-e6a0-4042-948d-7c728b1d75fc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/components/pages/confirmation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
@@ -200,6 +165,7 @@
       <workItem from="1629729320475" duration="757000" />
       <workItem from="1629915312779" duration="462000" />
       <workItem from="1630087869737" duration="398000" />
+      <workItem from="1630089390124" duration="297000" />
     </task>
     <servers />
   </component>
