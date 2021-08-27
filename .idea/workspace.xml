@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbe6c135-e6a0-4042-948d-7c728b1d75fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/actions/authActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/header/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/layout/header/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/archives/Archives.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/archives/Archives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/calendar/Calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/calendar/Calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/confirmation/Confirmation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/confirmation/Confirmation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/home/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/login/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/register/Register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/register/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/statistics/Statistics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/pages/statistics/Statistics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/private-route/AdminPrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/private-route/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/fonts/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/errorReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1s7bU6RAtF5XxTd2BBHOfhJSwsx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/components/pages/confirmation" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components/pages/confirmation" />
+      <recent name="$PROJECT_DIR$/client/src/components/pages" />
+      <recent name="$PROJECT_DIR$/routes/api" />
+      <recent name="C:\Users\kmate\Desktop\Dyplom (2)\client\src\components\private-route" />
+      <recent name="C:\Users\kmate\Desktop\Dyplom (2)\client\src\components\pages\calendar\week" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kmate\Desktop\Dyplom (2)\client\src\components\pages\calendar" />
+      <recent name="C:\Users\kmate\Desktop\Dyplom\client\src\components\pages\calendar\week" />
+      <recent name="C:\Users\kmate\Desktop\Dyplom\client\src\components\pages\calendar" />
+      <recent name="C:\Users\kmate\Desktop\Dyplom\client\src\components\layout" />
+      <recent name="C:\Users\kmate\Desktop\Dyplom\client\src\components\layout\header" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbe6c135-e6a0-4042-948d-7c728b1d75fc" name="Default Changelist" comment="" />
+      <created>1620226587584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620226587584</updated>
+      <workItem from="1620226588850" duration="6624000" />
+      <workItem from="1620234457227" duration="46000" />
+      <workItem from="1620234505113" duration="1719000" />
+      <workItem from="1620238797732" duration="5239000" />
+      <workItem from="1620324111725" duration="4388000" />
+      <workItem from="1620328806129" duration="6217000" />
+      <workItem from="1620401943963" duration="16832000" />
+      <workItem from="1621082967093" duration="29000" />
+      <workItem from="1621083743166" duration="17413000" />
+      <workItem from="1621694703634" duration="8532000" />
+      <workItem from="1621706752387" duration="2061000" />
+      <workItem from="1621710283730" duration="365000" />
+      <workItem from="1621712183006" duration="5655000" />
+      <workItem from="1621870113713" duration="395000" />
+      <workItem from="1622045303788" duration="3493000" />
+      <workItem from="1622134539832" duration="2264000" />
+      <workItem from="1622220328771" duration="122000" />
+      <workItem from="1622401533479" duration="49000" />
+      <workItem from="1622450099673" duration="7823000" />
+      <workItem from="1622470387312" duration="7414000" />
+      <workItem from="1622537895739" duration="1502000" />
+      <workItem from="1622539939767" duration="188000" />
+      <workItem from="1622564651442" duration="200000" />
+      <workItem from="1622646484361" duration="2810000" />
+      <workItem from="1622652570773" duration="518000" />
+      <workItem from="1622804001823" duration="838000" />
+      <workItem from="1622833210298" duration="2275000" />
+      <workItem from="1622895807256" duration="583000" />
+      <workItem from="1622897769903" duration="1206000" />
+      <workItem from="1622901516561" duration="4741000" />
+      <workItem from="1622984975404" duration="4327000" />
+      <workItem from="1622990773176" duration="8072000" />
+      <workItem from="1623001007502" duration="2196000" />
+      <workItem from="1623065874736" duration="11763000" />
+      <workItem from="1623079661439" duration="3589000" />
+      <workItem from="1623083622891" duration="67000" />
+      <workItem from="1623083822475" duration="763000" />
+      <workItem from="1623165310030" duration="5080000" />
+      <workItem from="1623577454399" duration="2202000" />
+      <workItem from="1623605360648" duration="1302000" />
+      <workItem from="1623664734071" duration="11743000" />
+      <workItem from="1623758689834" duration="5559000" />
+      <workItem from="1623769245594" duration="97000" />
+      <workItem from="1623769377430" duration="1855000" />
+      <workItem from="1624097254976" duration="543000" />
+      <workItem from="1624612470890" duration="8000" />
+      <workItem from="1626887175271" duration="4094000" />
+      <workItem from="1626891379416" duration="641000" />
+      <workItem from="1627142854695" duration="5139000" />
+      <workItem from="1627285128895" duration="4353000" />
+      <workItem from="1627671200862" duration="3624000" />
+      <workItem from="1627745309635" duration="1570000" />
+      <workItem from="1627802548570" duration="3103000" />
+      <workItem from="1628005442153" duration="4223000" />
+      <workItem from="1628011256046" duration="154000" />
+      <workItem from="1628014777185" duration="710000" />
+      <workItem from="1628088295172" duration="530000" />
+      <workItem from="1628089095069" duration="1877000" />
+      <workItem from="1628105169925" duration="2095000" />
+      <workItem from="1628179809898" duration="662000" />
+      <workItem from="1628267232539" duration="534000" />
+      <workItem from="1628333945980" duration="216000" />
+      <workItem from="1628518406841" duration="1145000" />
+      <workItem from="1628520630233" duration="84000" />
+      <workItem from="1628529774064" duration="3123000" />
+      <workItem from="1628608331044" duration="2273000" />
+      <workItem from="1628620433335" duration="2598000" />
+      <workItem from="1628624381325" duration="46000" />
+      <workItem from="1628695924974" duration="14824000" />
+      <workItem from="1628716701866" duration="2406000" />
+      <workItem from="1628752407668" duration="424000" />
+      <workItem from="1628758011811" duration="2310000" />
+      <workItem from="1628760367748" duration="4163000" />
+      <workItem from="1628774031580" duration="2666000" />
+      <workItem from="1628860502707" duration="4279000" />
+      <workItem from="1628883554518" duration="3129000" />
+      <workItem from="1628886783070" duration="171000" />
+      <workItem from="1629022641526" duration="6171000" />
+      <workItem from="1629030719307" duration="7508000" />
+      <workItem from="1629041651035" duration="1403000" />
+      <workItem from="1629044819876" duration="1343000" />
+      <workItem from="1629048589303" duration="4003000" />
+      <workItem from="1629124123060" duration="1401000" />
+      <workItem from="1629125571501" duration="383000" />
+      <workItem from="1629125986720" duration="7000" />
+      <workItem from="1629127408034" duration="1824000" />
+      <workItem from="1629138900483" duration="707000" />
+      <workItem from="1629383126599" duration="346000" />
+      <workItem from="1629385318225" duration="5334000" />
+      <workItem from="1629559941740" duration="927000" />
+      <workItem from="1629630927488" duration="3173000" />
+      <workItem from="1629635634198" duration="9953000" />
+      <workItem from="1629659890595" duration="980000" />
+      <workItem from="1629716117663" duration="43000" />
+      <workItem from="1629716193229" duration="165000" />
+      <workItem from="1629729320475" duration="757000" />
+      <workItem from="1629915312779" duration="462000" />
+      <workItem from="1630087869737" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
